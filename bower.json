@@ -1,0 +1,22 @@
+{
+  "name": "susyweb-provider-engine",
+  "description": "",
+  "main": "dist/ProviderEngine.js",
+  "authors": [
+    "\"\""
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Sophon",
+    "SusyWeb",
+    "Provider"
+  ],
+  "homepage": "https://github.com/SusyLink/provider-engine",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
